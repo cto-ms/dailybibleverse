@@ -1,0 +1,470 @@
+[
+  {
+    "weekNumber": 1,
+    "title": "Foresight",
+    "aquinasName": "Foresight",
+    "cardinal": "Prudence",
+    "phase": "Advent",
+    "liturgicalContext": "Advent 1 — \"Stay awake, be ready\"",
+    "connection": "Advent opens with the command to watch. Foresight is the virtue of looking ahead, reading the signs, and anticipating what God is bringing."
+  },
+  {
+    "weekNumber": 2,
+    "title": "Preparedness",
+    "aquinasName": "Caution",
+    "cardinal": "Prudence",
+    "phase": "Advent",
+    "liturgicalContext": "Advent 2 — John the Baptist: \"Prepare the way\"",
+    "connection": "The Baptist's entire mission is preparation. Preparedness (caution) means taking practical steps now for what lies ahead."
+  },
+  {
+    "weekNumber": 3,
+    "title": "Prayer",
+    "aquinasName": "Prayer",
+    "cardinal": "Justice",
+    "phase": "Advent",
+    "liturgicalContext": "Advent 3 (Gaudete) — \"Rejoice always, pray without ceasing\"",
+    "connection": "Gaudete Sunday calls us to rejoice — and the means is prayer. Paul's command in 1 Thessalonians 5:17 makes prayer the virtue of this joyful week."
+  },
+  {
+    "weekNumber": 4,
+    "title": "Humility",
+    "aquinasName": "Humility",
+    "cardinal": "Temperance",
+    "phase": "Advent",
+    "liturgicalContext": "Advent 4 — The Annunciation to Mary",
+    "connection": "Mary's fiat — \"Let it be done to me\" — is the supreme act of humility. She receives the greatest mission in history without a trace of self-assertion."
+  },
+  {
+    "weekNumber": 5,
+    "title": "Adoration",
+    "aquinasName": "Adoration",
+    "cardinal": "Justice",
+    "phase": "Christmas",
+    "liturgicalContext": "Christmas / Holy Family — The Nativity",
+    "connection": "Shepherds fall to their knees. Angels sing. The only fitting response to the Incarnation is adoration — giving God the worship that is His due."
+  },
+  {
+    "weekNumber": 6,
+    "title": "Generosity",
+    "aquinasName": "Generosity",
+    "cardinal": "Justice",
+    "phase": "Christmas",
+    "liturgicalContext": "Epiphany / Baptism of the Lord — The Magi bring gifts",
+    "connection": "The Magi travel far and offer their finest treasures. Epiphany reveals that the generous heart recognizes the King."
+  },
+  {
+    "weekNumber": 7,
+    "title": "Teachability",
+    "aquinasName": "Docility",
+    "cardinal": "Prudence",
+    "phase": "Ordinary Time I",
+    "liturgicalContext": "OT Week 2 — \"Come and see\" / Calling of disciples",
+    "connection": "The first disciples drop everything to learn from Jesus. Teachability is the willingness to be formed by a master — the starting point of discipleship."
+  },
+  {
+    "weekNumber": 8,
+    "title": "Courage",
+    "aquinasName": "Fortitude",
+    "cardinal": "Fortitude",
+    "phase": "Ordinary Time I",
+    "liturgicalContext": "OT Week 3 — \"Follow me\" / Early ministry",
+    "connection": "Leaving nets, tax booths, and families requires fortitude. The call to follow Christ is always a call to be brave."
+  },
+  {
+    "weekNumber": 9,
+    "title": "Truthfulness",
+    "aquinasName": "Truthfulness",
+    "cardinal": "Justice",
+    "phase": "Ordinary Time I",
+    "liturgicalContext": "OT Week 4 — The Beatitudes",
+    "connection": "The Beatitudes turn the world's values upside down. Only the truthful person can receive these hard sayings without flinching."
+  },
+  {
+    "weekNumber": 10,
+    "title": "Integrity",
+    "aquinasName": "Honesty/Beauty",
+    "cardinal": "Justice",
+    "phase": "Ordinary Time I",
+    "liturgicalContext": "OT Week 5 — \"You are salt and light\"",
+    "connection": "Salt that loses its flavor is thrown out. Light hidden under a basket serves no one. Integrity means being the same person inside and out — radiant and uncompromised."
+  },
+  {
+    "weekNumber": 11,
+    "title": "Reasoning",
+    "aquinasName": "Reason (Prudence)",
+    "cardinal": "Prudence",
+    "phase": "Ordinary Time I",
+    "liturgicalContext": "OT Week 6 — \"You have heard it said… but I say to you\"",
+    "connection": "Jesus deepens the Mosaic Law through rigorous moral reasoning. He does not abolish but fulfills — showing that reason illuminated by faith goes deeper than the letter."
+  },
+  {
+    "weekNumber": 12,
+    "title": "Forgiveness",
+    "aquinasName": "Clemency",
+    "cardinal": "Temperance",
+    "phase": "Ordinary Time I",
+    "liturgicalContext": "OT Week 7 — \"Love your enemies\"",
+    "connection": "The most radical command in the Gospel. Forgiveness is the temperance virtue that restrains our instinct for retaliation and frees us to love beyond merit."
+  },
+  {
+    "weekNumber": 13,
+    "title": "Practical Wisdom",
+    "aquinasName": "Prudence",
+    "cardinal": "Prudence",
+    "phase": "Ordinary Time I",
+    "liturgicalContext": "OT Week 8 — \"The wise man built on rock\"",
+    "connection": "The capstone of the Sermon on the Mount. Prudence — practical wisdom — is the master virtue that builds one's life on the solid foundation of Christ's teaching."
+  },
+  {
+    "weekNumber": 14,
+    "title": "Restraint",
+    "aquinasName": "Abstinence",
+    "cardinal": "Temperance",
+    "phase": "Lent",
+    "liturgicalContext": "Lent 1 — Ash Wednesday / Temptation in the Desert",
+    "connection": "Lent begins with fasting. Jesus refuses bread, spectacle, and power. Restraint — the habit of saying no to legitimate goods for a higher purpose — is the gateway to Lenten conversion."
+  },
+  {
+    "weekNumber": 15,
+    "title": "Fasting",
+    "aquinasName": "Fasting",
+    "cardinal": "Temperance",
+    "phase": "Lent",
+    "liturgicalContext": "Lent 2 — The Transfiguration",
+    "connection": "The disciples glimpse glory on Tabor but must descend. Fasting strips away comfort so that we can see clearly — the Transfiguration reveals what fasting prepares us to behold."
+  },
+  {
+    "weekNumber": 16,
+    "title": "Self-Discipline",
+    "aquinasName": "Temperance",
+    "cardinal": "Temperance",
+    "phase": "Lent",
+    "liturgicalContext": "Lent 3 — Conversion and repentance",
+    "connection": "Mid-Lent deepens the call to interior conversion. Self-discipline is the cardinal virtue itself — the ordering of desires so that what we want serves what we love."
+  },
+  {
+    "weekNumber": 17,
+    "title": "Gentlefirmness",
+    "aquinasName": "Meekness",
+    "cardinal": "Temperance",
+    "phase": "Lent",
+    "liturgicalContext": "Lent 4 (Laetare) — The Prodigal Son / Healing",
+    "connection": "The father runs to meet his wayward son — gentle in embrace yet firm in truth. Meekness is not weakness but strength held in check by love. Laetare's joy springs from this tender reunion."
+  },
+  {
+    "weekNumber": 18,
+    "title": "Perseverance",
+    "aquinasName": "Perseverance",
+    "cardinal": "Fortitude",
+    "phase": "Lent",
+    "liturgicalContext": "Lent 5 — \"Unless a grain of wheat falls and dies…\"",
+    "connection": "Jesus sets his face toward Jerusalem. The grain must fall. Perseverance is the fortitude to keep going when the cost becomes clear and the road narrows."
+  },
+  {
+    "weekNumber": 19,
+    "title": "Sacrifice",
+    "aquinasName": "Sacrifice",
+    "cardinal": "Justice",
+    "phase": "Lent",
+    "liturgicalContext": "Holy Week / Palm Sunday — The Passion",
+    "connection": "Christ lays down His life — the just offering that restores what sin has broken. Sacrifice is the justice virtue of giving to God what is most costly because He is most worthy."
+  },
+  {
+    "weekNumber": 20,
+    "title": "Gratitude",
+    "aquinasName": "Gratitude",
+    "cardinal": "Justice",
+    "phase": "Easter",
+    "liturgicalContext": "Easter Sunday — The Resurrection",
+    "connection": "Alleluia! Death is conquered. Gratitude is the only adequate response — not earning, not striving, but receiving the gift of life with overflowing thanks."
+  },
+  {
+    "weekNumber": 21,
+    "title": "Big-Souledness",
+    "aquinasName": "Magnanimity",
+    "cardinal": "Fortitude",
+    "phase": "Easter",
+    "liturgicalContext": "Easter 2 (Divine Mercy Sunday) — Thomas touches the wounds",
+    "connection": "Thomas moves from doubt to \"My Lord and my God!\" — the most expansive act of faith in the Gospels. Magnanimity, big-souledness, is the courage to believe greatly."
+  },
+  {
+    "weekNumber": 22,
+    "title": "Understanding",
+    "aquinasName": "Understanding",
+    "cardinal": "Prudence",
+    "phase": "Easter",
+    "liturgicalContext": "Easter 3 — The Road to Emmaus",
+    "connection": "\"Were not our hearts burning?\" The Emmaus disciples' eyes are opened through Scripture. Understanding — the prudence virtue that grasps the meaning beneath the surface — turns grief into recognition."
+  },
+  {
+    "weekNumber": 23,
+    "title": "Devotion",
+    "aquinasName": "Devotion",
+    "cardinal": "Justice",
+    "phase": "Easter",
+    "liturgicalContext": "Easter 4 (Good Shepherd Sunday) — \"I am the Good Shepherd\"",
+    "connection": "The shepherd lays down his life for the sheep. Devotion is the prompt willingness to give oneself entirely to God's service — the shepherd's defining quality."
+  },
+  {
+    "weekNumber": 24,
+    "title": "Commitment",
+    "aquinasName": "Vows",
+    "cardinal": "Justice",
+    "phase": "Easter",
+    "liturgicalContext": "Easter 5 — \"I am the vine, you are the branches\"",
+    "connection": "\"Abide in me.\" To remain on the vine is a choice renewed daily. Commitment is the justice virtue of following through on what we have promised — staying grafted to Christ."
+  },
+  {
+    "weekNumber": 25,
+    "title": "Friendliness",
+    "aquinasName": "Friendliness",
+    "cardinal": "Justice",
+    "phase": "Easter",
+    "liturgicalContext": "Easter 6 — \"I call you friends\" / The New Commandment",
+    "connection": "\"I no longer call you servants but friends.\" The risen Christ elevates His disciples into friendship. Friendliness is the virtue that makes us approachable, warm, and present to others."
+  },
+  {
+    "weekNumber": 26,
+    "title": "Diligence",
+    "aquinasName": "Studiousness",
+    "cardinal": "Temperance",
+    "phase": "Easter",
+    "liturgicalContext": "Ascension / Easter 7 — \"Go and make disciples of all nations\"",
+    "connection": "The Great Commission demands industrious effort. Diligence — the measured, sustained application of energy to the work at hand — is how the Church carries out the Ascension mandate."
+  },
+  {
+    "weekNumber": 27,
+    "title": "Creativity",
+    "aquinasName": "Shrewdness",
+    "cardinal": "Prudence",
+    "phase": "Easter",
+    "liturgicalContext": "Pentecost — The Holy Spirit descends in fire and wind",
+    "connection": "The Spirit speaks in every tongue, invents new ways to reach every heart. Creativity — the prudence virtue of finding unexpected solutions — is the Spirit's signature gift."
+  },
+  {
+    "weekNumber": 28,
+    "title": "Memory",
+    "aquinasName": "Memory",
+    "cardinal": "Prudence",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "Trinity Sunday",
+    "connection": "The Church recalls the deepest mystery of God's inner life. Memory — the prudence virtue of holding truth present in the mind — is how we treasure what has been revealed."
+  },
+  {
+    "weekNumber": 29,
+    "title": "Generous Giving",
+    "aquinasName": "Tithing",
+    "cardinal": "Justice",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "Corpus Christi — \"This is my Body, given for you\"",
+    "connection": "God holds nothing back. In the Eucharist, He gives His entire self. Generous giving — the habit of offering our substance, not just our surplus — mirrors this total gift."
+  },
+  {
+    "weekNumber": 30,
+    "title": "Worship",
+    "aquinasName": "Religion",
+    "cardinal": "Justice",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "Sacred Heart of Jesus (mid-June)",
+    "connection": "The Solemnity of the Sacred Heart invites us into the burning love of Christ's own heart. Worship — the virtue of rendering God the honor due to Him — is our entry into that fire."
+  },
+  {
+    "weekNumber": 31,
+    "title": "Justice",
+    "aquinasName": "Justice",
+    "cardinal": "Justice",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "Sts. Peter and Paul (June 29)",
+    "connection": "Peter the rock. Paul the apostle to the nations. Together they establish the Church's order in truth and right relationship. Justice itself — giving each person what is due — is their shared legacy."
+  },
+  {
+    "weekNumber": 32,
+    "title": "Sound Judgment",
+    "aquinasName": "Sound Judgment",
+    "cardinal": "Prudence",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "St. Thomas the Apostle (July 3)",
+    "connection": "Thomas demanded evidence. Jesus honored the demand. Sound judgment — the capacity to assess a situation rightly — leads Thomas from skepticism to the greatest confession of faith."
+  },
+  {
+    "weekNumber": 33,
+    "title": "Obedience",
+    "aquinasName": "Obedience",
+    "cardinal": "Justice",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "St. Benedict (July 11)",
+    "connection": "\"Listen\" — the first word of St. Benedict's Rule. Benedictine obedience is not servile compliance but the deep listening that orients the whole person toward God's will."
+  },
+  {
+    "weekNumber": 34,
+    "title": "Respect",
+    "aquinasName": "Observance",
+    "cardinal": "Justice",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "St. Mary Magdalene (July 22)",
+    "connection": "\"Rabboni!\" — Mary Magdalene greets the risen Lord with reverent awe. Respect (observance) is the justice virtue of honoring those who are set above us, beginning with Christ Himself."
+  },
+  {
+    "weekNumber": 35,
+    "title": "Filial Piety",
+    "aquinasName": "Piety (Filial)",
+    "cardinal": "Justice",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "Sts. Joachim and Anne (July 26)",
+    "connection": "The grandparents of Jesus. Filial piety — the love and honor owed to parents and ancestors — is embodied in the hidden faithfulness of Joachim and Anne, who prepared the way for Mary."
+  },
+  {
+    "weekNumber": 36,
+    "title": "Good Counsel",
+    "aquinasName": "Good Counsel",
+    "cardinal": "Prudence",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "OT Week 18 — Summer parables of the kingdom",
+    "connection": "The kingdom parables (treasure in a field, pearl of great price) invite deliberation: what is worth everything? Good counsel is the virtue of seeking and giving wise advice before acting."
+  },
+  {
+    "weekNumber": 37,
+    "title": "Alertness",
+    "aquinasName": "Circumspection",
+    "cardinal": "Prudence",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "The Transfiguration (Aug 6) / St. Dominic (Aug 8)",
+    "connection": "\"This is my beloved Son — listen to Him!\" Alertness — attentiveness to all the circumstances around us — is what the drowsy disciples on Tabor most needed, and what Dominic exercised in founding the Order of Preachers."
+  },
+  {
+    "weekNumber": 38,
+    "title": "Poise",
+    "aquinasName": "Shamefacedness",
+    "cardinal": "Temperance",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "The Assumption (August 15)",
+    "connection": "Mary is taken up body and soul into heaven — the ultimate composure before God. Poise is the temperance virtue of carrying oneself with dignity and grace, neither anxious nor presumptuous."
+  },
+  {
+    "weekNumber": 39,
+    "title": "Self-Control",
+    "aquinasName": "Continence",
+    "cardinal": "Temperance",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "St. Augustine (August 28)",
+    "connection": "\"Grant me chastity and continence — but not yet.\" Augustine's long struggle and eventual victory make him the patron of self-control: the power to master disordered desires through grace."
+  },
+  {
+    "weekNumber": 40,
+    "title": "Gracefulness",
+    "aquinasName": "Modesty of Movement",
+    "cardinal": "Temperance",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "Birth of the Blessed Virgin Mary (September 8)",
+    "connection": "Mary enters the world with quiet grace. Gracefulness — beauty in movement and manner — reflects the inner order of one who is \"full of grace.\""
+  },
+  {
+    "weekNumber": 41,
+    "title": "Patience",
+    "aquinasName": "Patience",
+    "cardinal": "Fortitude",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "Exaltation of the Holy Cross (September 14)",
+    "connection": "The Cross is not just endured but exalted. Patience is the fortitude to bear suffering without being broken — transforming pain into offering."
+  },
+  {
+    "weekNumber": 42,
+    "title": "Sobriety",
+    "aquinasName": "Sobriety",
+    "cardinal": "Temperance",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "Our Lady of Sorrows (September 15)",
+    "connection": "Mary stands at the foot of the Cross with clear-eyed grief — no hysteria, no denial. Sobriety is the temperance of a mind that remains unclouded even in the deepest pain."
+  },
+  {
+    "weekNumber": 43,
+    "title": "Strategic Wisdom",
+    "aquinasName": "Military Prudence",
+    "cardinal": "Prudence",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "Sts. Michael, Gabriel, and Raphael (September 29)",
+    "connection": "Michael battles the dragon. Gabriel delivers the message. Raphael guides the journey. Strategic wisdom — the capacity to coordinate complex efforts toward victory — is the archangels' gift."
+  },
+  {
+    "weekNumber": 44,
+    "title": "Orderliness",
+    "aquinasName": "Orderliness",
+    "cardinal": "Temperance",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "St. Thérèse of Lisieux (October 1)",
+    "connection": "The \"Little Way\" — doing small things with great love, in order. St. Thérèse found holiness not in grand gestures but in the careful ordering of daily life toward God."
+  },
+  {
+    "weekNumber": 45,
+    "title": "Playing Well",
+    "aquinasName": "Eutrapelia",
+    "cardinal": "Temperance",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "St. Francis of Assisi (Oct 4) / Our Lady of the Rosary (Oct 7)",
+    "connection": "Francis preached to birds, danced with Brother Sun, and called death \"Sister.\" Playing well — the virtue of wholesome recreation and joy — is the Franciscan charism: finding delight in God's creation."
+  },
+  {
+    "weekNumber": 46,
+    "title": "Personal Wisdom",
+    "aquinasName": "Personal Prudence",
+    "cardinal": "Prudence",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "St. Teresa of Ávila (October 15)",
+    "connection": "Teresa mapped the soul's journey through seven mansions. Personal wisdom — prudence directed at one's own spiritual growth — is the interior knowledge she cultivated and taught."
+  },
+  {
+    "weekNumber": 47,
+    "title": "Equity",
+    "aquinasName": "Epikeia",
+    "cardinal": "Justice",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "St. Luke the Evangelist (October 18)",
+    "connection": "Luke, the physician-evangelist, tells the stories of the poor, the outcast, the Samaritan. Equity — the virtue of applying the spirit of the law when the letter falls short — pervades his Gospel."
+  },
+  {
+    "weekNumber": 48,
+    "title": "Fair Exchange",
+    "aquinasName": "Commutative Justice",
+    "cardinal": "Justice",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "Sts. Simon and Jude (October 28)",
+    "connection": "The \"hidden apostles\" gave their lives for the Gospel and received the crown. Fair exchange — the justice of equal giving and receiving — is fulfilled in martyrdom: life given, eternal life received."
+  },
+  {
+    "weekNumber": 49,
+    "title": "Modesty",
+    "aquinasName": "Modesty of Dress",
+    "cardinal": "Temperance",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "All Saints (November 1)",
+    "connection": "The saints include kings and beggars, doctors and peasants — but all are clothed in white. Modesty, the virtue of presenting oneself appropriately, reminds us that holiness is the only garment that matters."
+  },
+  {
+    "weekNumber": 50,
+    "title": "Chasteness",
+    "aquinasName": "Chastity",
+    "cardinal": "Temperance",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "All Souls / OT Week 32 — Parable of the wise and foolish virgins",
+    "connection": "The wise virgins kept their lamps burning. Chasteness — purity of heart and body — is the oil that keeps the flame alive as we await the Bridegroom."
+  },
+  {
+    "weekNumber": 51,
+    "title": "Just Correction",
+    "aquinasName": "Vindication",
+    "cardinal": "Justice",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "OT Week 33 — Parable of the talents / End-time accountability",
+    "connection": "The master returns and settles accounts. Just correction — the virtue of righting wrongs and holding others accountable with fairness — is the theme of these eschatological parables."
+  },
+  {
+    "weekNumber": 52,
+    "title": "Fair Distribution",
+    "aquinasName": "Distributive Justice",
+    "cardinal": "Justice",
+    "phase": "Ordinary Time II",
+    "liturgicalContext": "Christ the King — \"Whatever you did for the least of these…\"",
+    "connection": "The final Sunday of the liturgical year. Christ the King judges the nations: did you feed the hungry, clothe the naked, visit the prisoner? Fair distribution — giving to each according to their need — is the measure of His kingdom."
+  }
+]

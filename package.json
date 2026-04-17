@@ -1,0 +1,35 @@
+{
+  "name": "truepresence-bible-verse",
+  "version": "0.1.0",
+  "private": true,
+  "description": "TruePresence Bible Verse Infrastructure — virtue-of-the-week verse-of-the-day pipeline (GCS + Sanity).",
+  "type": "module",
+  "scripts": {
+    "ingest:gcs": "node src/scripts/01-ingest-gcs.mjs",
+    "generate:refs": "node src/scripts/03-generate-refs.mjs",
+    "hydrate": "node src/scripts/04-hydrate.mjs",
+    "hydrate:commentary": "node src/scripts/04b-hydrate-commentary.mjs",
+    "extend:verses": "node src/scripts/04c-extend-short-verses.mjs",
+    "hydrate:all": "node src/scripts/04-hydrate.mjs && node src/scripts/04b-hydrate-commentary.mjs",
+    "review": "node src/scripts/build-review-page.mjs && open data/review.html",
+    "import:sanity": "node src/scripts/05-import-sanity.mjs",
+    "patch:review-urls": "node src/scripts/07-patch-review-urls.mjs",
+    "upload:verse-of-day": "node src/scripts/06-upload-verse-of-day.mjs",
+    "server": "node src/server/index.mjs",
+    "test:virtue": "node src/lib/virtue-week.test.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "@google-cloud/storage": "^7.14.0",
+    "@sanity/client": "^6.22.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "p-limit": "^6.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,44 @@
+# GKE Deployment + Service for the runtime resolver.
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: verse-of-day-resolver
+  namespace: truepresence
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: verse-of-day-resolver
+  template:
+    metadata:
+      labels:
+        app: verse-of-day-resolver
+    spec:
+      containers:
+        - name: resolver
+          image: gcr.io/truepresence/bible-verse:latest
+          ports:
+            - containerPort: 8080
+          envFrom:
+            - secretRef:
+                name: bible-verse-secrets
+          readinessProbe:
+            httpGet: { path: /healthz, port: 8080 }
+            initialDelaySeconds: 5
+            periodSeconds: 10
+          resources:
+            requests: { cpu: "200m", memory: "512Mi" }
+            limits:   { cpu: "1",    memory: "1Gi" }
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: verse-of-day-resolver
+  namespace: truepresence
+spec:
+  selector:
+    app: verse-of-day-resolver
+  ports:
+    - port: 80
+      targetPort: 8080
+  type: ClusterIP

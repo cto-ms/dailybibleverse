@@ -1,0 +1,26 @@
+[
+  {
+    "weekNumber": 1,
+    "title": "Prudence",
+    "liturgicalContext": "Advent begins with 'stay awake' (Mt 24:42). Prudence is watchful discernment.",
+    "description": "The charioteer of the virtues — right reason in action, guiding all other virtues."
+  },
+  {
+    "weekNumber": 2,
+    "title": "(Week 2 Virtue)",
+    "liturgicalContext": "Advent II — the liturgical context for this week.",
+    "description": "Short description of the virtue."
+  },
+  {
+    "weekNumber": 14,
+    "title": "Fasting",
+    "liturgicalContext": "Ash Wednesday inaugurates the Lenten fast.",
+    "description": "Voluntary self-denial for spiritual growth."
+  },
+  {
+    "weekNumber": 20,
+    "title": "Fortitude",
+    "liturgicalContext": "Easter — tied to the Resurrection narrative.",
+    "description": "Courage and endurance in the face of difficulty."
+  }
+]
